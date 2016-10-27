@@ -1,0 +1,11 @@
+{
+  "name": "exit",
+  "version": "1.0.0",
+  "description": "FristNode",
+  "main": "index.js",
+  "scripts": {
+    "test": "fristNode"
+  },
+  "author": "",
+  "license": "ISC"
+}
